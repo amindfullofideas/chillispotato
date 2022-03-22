@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chillispotato
+- 👋 Hi, I’m @amindfullodideas
 - 👀 I’m interested in ...machine learning,web development
 - 🌱 I’m currently learning ... deep learning, java
 - 💞️ I’m looking to collaborate on ...
